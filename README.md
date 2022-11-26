@@ -12,3 +12,4 @@ Références :
 * https://github.com/JohnPeel/flock-rs
 * https://github.com/henninglive/boids-rs
 * https://github.com/eisendaniel/boids
+* https://github.com/jfgreen/rusty-boids
